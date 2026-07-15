@@ -1,6 +1,21 @@
 # 💫 Hi,I'm Yash 
-🔭 I’m currently working on<br>AI-powered web applications, full-stack projects, and practical AI/ML solutions.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, AI/ML applications, and innovative full-stack development.<br><br>🤝 I’m looking for help with<br>System design, scalable backend architecture, and advanced AI engineering.<br><br>🌱 I’m currently learning<br>React, Node.js, Express.js, MongoDB, Python, and modern AI development.<br><br>💬 Ask me about<br>Python, AI/ML, web development, Git/GitHub, hackathons, and building real-world projects.<br><br>⚡ Fun fact<br>I enjoy turning ideas into working projects and I'm always building something new.
+🔭 I'm currently working on
+AI-powered web apps & full-stack projects
 
+👯 I'm looking to collaborate on
+Open-source & AI/ML projects
+
+🤝 I'm looking for help with
+System design & scalable backend architecture
+
+🌱 I'm currently learning
+React, Node.js, MongoDB & AI engineering
+
+💬 Ask me about
+Python, AI/ML, Web Dev & Git/GitHub
+
+⚡ Fun fact
+Always building and shipping new projects.
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
